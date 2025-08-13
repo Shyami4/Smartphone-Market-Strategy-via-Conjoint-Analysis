@@ -10,9 +10,9 @@ This project applies Choice-Based Conjoint (CBC) Analysis to evaluate consumer p
 - Recommend a strategy to maximize profitability and competitiveness.
 
 ## Tools & Methods
-Methodology: Choice-Based Conjoint (CBC) Analysis
-Software: Sawtooth Software, Excel
-Metrics: Attribute Utilities, Market Share Simulation, Profitability Analysis
+- Methodology: Choice-Based Conjoint (CBC) Analysis
+- Software: Sawtooth Software, Excel
+- Metrics: Attribute Utilities, Market Share Simulation, Profitability Analysis
 
 ## Key Findings
 - Brand name and price had the highest influence on consumer choice.
@@ -20,8 +20,5 @@ Metrics: Attribute Utilities, Market Share Simulation, Profitability Analysis
 - Launching both a flagship and value model maximized competitive positioning.
 
 ## Contributors
-Shyami Govind
-Riya Gupta
-Stephany Lam
-Cristin Lue
+Shyami Govind, Riya Gupta, Stephany Lam and Cristin Lue
 
